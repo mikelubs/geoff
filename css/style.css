@@ -269,14 +269,17 @@ header .intro-text {
 	padding-bottom: 40px;
 	text-align: center;
 }
+
 ul.cat li {
 	display: inline-block;
 }
+
 ol.type li {
 	display: inline-block;
 	margin-left: 10px;
 	margin-bottom: 30px;
 }
+
 ol.type li a {
 	color: #a7c44c;
 	font-weight: 400;
