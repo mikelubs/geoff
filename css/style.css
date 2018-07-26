@@ -214,6 +214,13 @@ header .intro-text {
 	font-family: 'Josefin Sans', sans-serif;
 }
 
+.clarical {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 3em!important;
+	color: rgb(255, 51, 0)!important;
+
+}
+
 .intro-text img {
 	margin-bottom: 40px;
 }
