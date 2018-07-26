@@ -177,7 +177,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-o-background-size: cover;
 }
 .intro .overlay {
-	background: rgba(0,0,0,0.40);
+	background: rgba(0, 0, 0, 0.8);
 }
 .intro h1 {
 	color: #fff;
@@ -386,7 +386,7 @@ ol.type li a:hover {
 }
 #team .overlay {
 	padding: 120px 0;
-	background: rgba(167, 196, 76, 0.9);
+	background: rgba(0, 0, 0, 0.8);
 }
 #team h2, #team p {
 	color: #fff;
