@@ -78,7 +78,7 @@ hr {
 	width: 70px;
 	text-align: center;
 	position: relative;
-	background: #a7c44c;
+	background: rgb(51, 153, 255);
 	margin: 0 auto;
 	margin-bottom: 20px;
 	border: 0;
@@ -162,7 +162,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .btn-custom:hover, .btn-custom:focus, .btn-custom.focus, .btn-custom:active, .btn-custom.active {
 	color: rgba(255,255,255,0.8);
-	background-color: #94ae44;
+	background-color: rgb(51, 51, 204);
 }
 /* Header Section */
 .intro {
@@ -252,7 +252,7 @@ header .intro-text {
 #about img {
 	display: inline-block;
 	border-radius: 100px 0 100px 0;
-	box-shadow: -15px 0 #a7c44c;
+	box-shadow: -15px 0 rgb(51, 153, 255);
 }
 #about p {
 	line-height: 24px;
@@ -268,7 +268,7 @@ header .intro-text {
 #services img {
 	width: 300px;
 	border-radius: 75px 0 75px 0;
-	box-shadow: 15px 0 #a7c44c;
+	box-shadow: 15px 0 rgb(51, 153, 255);
 }
 #services h3 {
 	padding: 10px 0;
@@ -295,21 +295,21 @@ ol.type li {
 }
 
 ol.type li a {
-	color: #a7c44c;
+	color: rgb(51, 153, 255);
 	font-weight: 400;
 	font-size: 15px;
 	padding: 10px 20px;
-	border: 2px solid #a7c44c;
+	border: 2px solid rgb(51, 153, 255);
 	border-radius: 10px 0 10px 0;
 	text-transform: uppercase;
 	letter-spacing: 0.5px;
 }
 ol.type li a.active {
-	background: #a7c44c;
+	background: rgb(51, 153, 255);
 	color: #fff;
 }
 ol.type li a:hover {
-	background: #a7c44c;
+	background: rgb(51, 153, 255);
 	color: #fff;
 }
 .isotope-item {
@@ -509,7 +509,7 @@ color: #777;
 #footer .social i.fa {
 	font-size: 26px;
 	padding: 4px;
-	color: #a7c44c;
+	color: rgb(51, 153, 255);
 	transition: all 0.3s;
 }
 #footer .social i.fa:hover {
