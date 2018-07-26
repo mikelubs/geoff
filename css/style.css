@@ -102,14 +102,12 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background-color: rgba(248, 248, 248, 0);
 	border-color: rgba(231, 231, 231, 0);
 }
-#menu a .navbar-brand {
+#menu a.navbar-brand {
 	font-size: 22px;
 	color: #eee;
 	font-weight: 400;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	padding: 0!important;
-	margin: 0!important;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	text-transform: uppercase;
